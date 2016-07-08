@@ -1,0 +1,8 @@
+{
+  "roles": [
+    {
+      "implements": "component:@sanity/components/loading/spinner",
+      "path": "src/Spinner.js"
+    }
+  ]
+}

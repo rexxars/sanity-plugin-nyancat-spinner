@@ -1,0 +1,11 @@
+.root {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 2.5rem;
+  border: 2px solid pink;
+  display: inline-block;
+  background-image: url(../images/nyan.gif);
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}

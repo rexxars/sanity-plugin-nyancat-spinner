@@ -1,0 +1,16 @@
+{
+  "name": "sanity-plugin-nyancat-spinner",
+  "version": "1.0.0",
+  "description": "Replace default spinners with NYANCAT SPINNERS OMG",
+  "main": "lib/index.js",
+  "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
+  "license": "MIT",
+  "keywords": [
+    "sanity",
+    "sanity-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rexxars/sanity-plugin-nyancat-spinner.git"
+  }
+}
