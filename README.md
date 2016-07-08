@@ -1,6 +1,6 @@
 # sanity-plugin-nyancat-spinner
 
-Replace default buttons with NYANCAT SPINNERS OMG
+Replace default spinners with NYANCAT SPINNERS OMG
 
 ## License
 
